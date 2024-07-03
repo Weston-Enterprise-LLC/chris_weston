@@ -2,6 +2,10 @@
 This folder showcases projects I have completed
 ## Contents
 
+### [Git and GitHub Basics](projects/github_course)
+**Description:** Edx.org training course
+- **Tools:** GitHub
+- **Overview:** Learn Git & GitHub functionality
 <!--
 ### [Data Pipeline with Snowflake](https://github.com/username/project-snowflake)
 **Description:** Built an end-to-end data pipeline using Snowflake.
