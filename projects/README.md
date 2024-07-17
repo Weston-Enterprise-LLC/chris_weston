@@ -1,5 +1,5 @@
 # Projects
-This folder showcases projects I have completed
+This folder showcases projects I have worked on.
 ## Contents
 
 ### [Git and GitHub Basics](projects/github_course)
