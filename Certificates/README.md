@@ -2,7 +2,7 @@
 This folder hosts Certificates I have completed.
 ## Contents
 
-### [The Git & Github Bootcamp](The Git & Github Bootcamp.pdf)
+### The Git & Github Bootcamp
 **Description:** Edx.org training course
 - **Tools:** Git & GitHub
 - **Overview:** Learn Git & GitHub functionality
