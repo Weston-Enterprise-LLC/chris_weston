@@ -4,7 +4,10 @@
 I am a seasoned Data Engineer with a robust background in data analytics, business intelligence, and data platform engineering. With a track record of driving impactful projects and optimizing data systems, I bring a wealth of experience in leading data initiatives and delivering data-driven solutions.
 
 ## Projects
-This [folder](projects) showcases projects I have completed.
+This [folder](projects) showcases projects I have worked on.
+
+## Certificates
+This [folder](Certificates) hosts certificates I have completed.
 
 ## Skills
 ### Programming Languages 
